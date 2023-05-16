@@ -1,5 +1,11 @@
-### Hi there 👋
+<div align="left">
 
+## 👐🏻 Hi 👋, I'm greed.
+
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=greeddk&show_icons=true&theme=light" width = 450/>
+
+### 🌱 I’m currently learning ...
+![iOS](https://img.shields.io/badge/-iOS-6E74D3?logo=Apple&logoColor=B3CEED) ![swift](https://img.shields.io/badge/-swift-C26F1E?logo=swift&logoColor=EEAEAE) 
 <!--
 **Greeddk/Greeddk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
