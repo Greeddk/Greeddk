@@ -20,19 +20,12 @@
   
 </div>
 
-<br>
-</br>
-<br>
-</br>
-
-<br>
-</br>
 
 <br>
 ##  Projects     
 <br/>
- - <a href="[https://github.com/Greeddk/WWDC2023]">WWDC2023 Student Challenge - 사다리게임</a>  
- - <a href="[https://github.com/Greeddk/BoxWorld.git]">애플디벨로퍼아카데미 MC1 - BoxWorld(우리들의 CBL이야기)</a>     
- - <a href="[https://github.com/MC2-Team7]">애플디벨로퍼아카데미 MC2 - ChopChop(육아용 인터렉션 앱)</a>      
+ - <a href="[https://github.com/Greeddk/WWDC2023]">WWDC2023 Student Challenge - 사다리게임</a>
+ - <a href="[https://github.com/Greeddk/BoxWorld.git]">애플디벨로퍼아카데미 MC1 - BoxWorld(우리들의 CBL이야기)</a>
+ - <a href="[https://github.com/MC2-Team7]">애플디벨로퍼아카데미 MC2 - ChopChop(육아용 인터렉션 앱)</a>
   
   
