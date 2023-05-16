@@ -1,7 +1,7 @@
 <div align="left">
 
 ## 👋 Hi , I'm greed.
-### 👨🏻‍💻  About
+### 👨🏻‍💻  About Me
 기획, 개발, 디자인을 욕심내는 그리드입니다!   
 </div>
 
