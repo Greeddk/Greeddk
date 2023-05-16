@@ -1,6 +1,6 @@
 <div align="left">
 
-## 👋 Hi , I'm greed.
+## 👋 Hi , I'm greed.
 ### 👨🏻‍💻  About
 기획, 개발, 디자인 모든 것을 욕심내는 그리드입니다!   
 
