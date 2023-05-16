@@ -6,16 +6,8 @@
 </div>
 
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=greeddk&show_icons=true&theme=buefy" width = 450/>
-<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=greeddk&layout=compact&theme=swift" width = 450/>
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
+
 <div align=left> 
 
 ### 🌱 I’m currently learning ...
@@ -29,6 +21,10 @@
 </div>
 
 <br>
+</br>
+
+<br>
+</br>
 
 <div align=left>
  
