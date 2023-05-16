@@ -6,7 +6,8 @@
 
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=greeddk&show_icons=true&theme=buefy" width = 450/>
 
-### 🌱 I’m currently learning ...
+<div align=left> 
+ ### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
@@ -15,6 +16,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   
+</div>
+
 <br>
 ##  Projects
  - <a href="[https://github.com/Greeddk/WWDC2023]">WWDC2023 Student Challenge - 사다리게임</a>
