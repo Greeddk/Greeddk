@@ -4,12 +4,13 @@
 ### 👨🏻‍💻  About
 기획, 개발, 디자인 모든 것을 욕심내는 그리드입니다!
 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=greeddk&show_icons=true&theme=gruvbox" width = 450/>
+<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=greeddk&show_icons=true&theme= buefy" width = 450/>
 
 ### 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
+<br>
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
