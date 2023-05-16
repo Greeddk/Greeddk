@@ -12,13 +12,11 @@
  <br>
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
- </br>
 
-<br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<br/>       
-  
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">    
+</br> 
+ 
 </div>
 <br>
 </br>
@@ -29,8 +27,8 @@
 <div align=left>
 ##  Projects     
 
- - <a href="[https://github.com/Greeddk/WWDC2023]">WWDC2023 Student Challenge - 사다리게임</a>
- - <a href="[https://github.com/Greeddk/BoxWorld.git]">애플디벨로퍼아카데미 MC1 - BoxWorld(우리들의 CBL이야기)</a>
- - <a href="[https://github.com/MC2-Team7]">애플디벨로퍼아카데미 MC2 - ChopChop(육아용 인터렉션 앱)</a>
+ - <a href="https://github.com/Greeddk/WWDC2023">WWDC2023 Student Challenge - 사다리게임</a>
+ - <a href="https://github.com/Greeddk/BoxWorld.git">애플디벨로퍼아카데미 MC1 - BoxWorld(우리들의 CBL이야기)</a>
+ - <a href="https://github.com/MC2-Team7">애플디벨로퍼아카데미 MC2 - ChopChop(육아용 인터렉션 앱)</a>
  </div>
   
