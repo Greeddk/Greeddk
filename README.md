@@ -5,9 +5,7 @@
 기획, 개발, 디자인을 욕심내는 그리드입니다!   
 </div>
 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=greeddk&show_icons=true&theme=buefy" width = 450/>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align=left> 
 
