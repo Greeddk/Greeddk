@@ -10,10 +10,11 @@
 <div align=left> 
 
 ### 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=white&color=.blue"/>
   <br>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">    
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">    
 </br> 
  
 </div>
