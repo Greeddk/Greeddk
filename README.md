@@ -7,6 +7,7 @@
 
 <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=greeddk&show_icons=true&theme=buefy" width = 450/>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align=left> 
 
