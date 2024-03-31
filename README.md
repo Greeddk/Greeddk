@@ -1,7 +1,7 @@
 <div align="left">
 
 ## 
-[👋 Hi , I'm greed.](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=👋%20Hi%20,%20I'm%20greed.&section=header&reversal=false&textBg=false&fontColor=FFFFFF&animation=fadeIn)
+(https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=👋%20Hi%20,%20I'm%20greed.&section=header&reversal=false&textBg=false&fontColor=FFFFFF&animation=fadeIn)
 ### 👨🏻‍💻  About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%EA%B8%B0%ED%9A%8D%2C+%EA%B0%9C%EB%B0%9C%2C+%EB%94%94%EC%9E%90%EC%9D%B8+%EB%AA%A8%EB%91%90+%EB%8B%A4+%EC%9A%95%EC%8B%AC%EB%82%B4%EB%8A%94+%EA%B7%B8%EB%A6%AC%EB%93%9C%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 </div>
