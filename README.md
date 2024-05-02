@@ -36,7 +36,7 @@
  - <a href="https://github.com/Greeddk/WWDC24">WWDC2024 Student Challenge - FeelTheHangeul(한글 자모 공부앱 /  iPadOS)</a>
  - <a href="https://github.com/Greeddk/WhattoWatch">개인프로젝트 - 뭐볼까(인기 TV 프로그램 / 영화 정보 조회 앱 / iOS)</a>
  - <a href="https://github.com/Greeddk/TodayCoin">개인프로젝트 - 오늘의 코인(가상화폐, NFT 정보 조회 앱 / iOS)</a>
- - <a href="https://github.com/Greeddk/UQuiz">개인프로젝트- UQuiz(영화 제목 퀴즈 앱 / iOS)</a>
+ - <a href="https://github.com/Greeddk/UQuiz">개인프로젝트 - UQuiz(영화 제목 퀴즈 앱 / iOS)</a>
  - <a href="https://github.com/Greeddk/TaxiParty">개인프로젝트 - TaxiParty(택시합승 플랫폼 / iOS)</a>
  
 
