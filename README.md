@@ -39,4 +39,10 @@
  - <a href="https://github.com/Greeddk/WWDC2023">WWDC2023 Student Challenge - 사다리게임(iPadOS)</a>
  
  </div>
+
+<br><br>
+
+ <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/greeddk"/>
+</a>
   
